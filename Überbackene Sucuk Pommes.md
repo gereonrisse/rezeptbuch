@@ -11,11 +11,13 @@ Dauer: 15min
 
 ### Zubereitung
 - Friteuse auf 170° und Ofen auf 220° vorheizen
-- Suzuk in Scheiben schneiden und in der Pfanne scharf anbraten
+- Sucuk in Scheiben schneiden und in der Pfanne scharf anbraten
 - Jalapenos und Oliven in kleine Stücke schneiden
 - Pommes 6min frittieren und mit Gewürzsalz und Chilipulver würzen
-- Hälfte der Pommes auf großem Teller drapieren und eine Schicht Cheddar drauftun
-- Zweite Hälfte der Pommes darüber
-- Sucuk, Jalapenos und Oliven obendrauf drapieren
-- zweite Schicht Cheddar drüber
+- folgende Schichten von unten nach oben auf einen großen Teller tun:
+  1. Hälfte der Pommes
+  2. Hälfte des Cheddars
+  3. Rest der Pommes
+  4. Sucuk, Oliven und Jalapenos
+  5. Rest des Cheddars
 - Teller für 3min in den Ofen stellen, sodass der Käse schmilzt
