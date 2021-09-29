@@ -1,3 +1,5 @@
+![Foto](https://imgur.com/a/NmrNJuI)
+
 Dauer: 15min
 
 ### Zutaten pro Portion
