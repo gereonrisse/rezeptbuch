@@ -1,4 +1,4 @@
-![Foto](https://imgur.com/a/NmrNJuI)
+![Foto](https://i.imgur.com/KLsSRYp_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
 Dauer: 15min
 
