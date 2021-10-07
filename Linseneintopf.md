@@ -17,5 +17,6 @@ Dauer: 1:30
 - 3 Liter Wasser kochen und in den Topf
 - 9 gehäufte Teelöffel Gemüsebrühe rein
 - 45min kochen lassen
+- erst jetzt die Würstchen rein, damit die nicht ihren Geschmack verlieren
 - mit Balsamico Essig, Cumin, Pfeffer etc würzen
 - mit frischer Petersilie obendrauf servieren
